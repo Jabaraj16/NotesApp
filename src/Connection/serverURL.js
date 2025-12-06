@@ -1,1 +1,1 @@
-export const serverURL="http://localhost:3000"
+export const serverURL="https://notesapp-server-3.onrender.com"
